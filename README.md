@@ -1,3 +1,4 @@
+# Achieved 3rd Place Overall in Hack with AI (GDSC UWaterloo)
 # HackwithAi
 an hackathon project with ai
 
